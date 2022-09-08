@@ -2,7 +2,7 @@
 title: Assignment 0-0
 ---
 
-See [Git/GitHub Slides](/slides/lecture-01-github.pdf) for help.
+See [Git/GitHub Slides](/slides/lecture-02-github.pdf) for help.
 
 ## Part 1 - Join GitHub
 
