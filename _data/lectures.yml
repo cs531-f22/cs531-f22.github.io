@@ -1,6 +1,5 @@
 - title: Lecture 1
   date: 2022-08-31
-  featured: true
   topics:
     - Administrivia
     - Introduction to HTTP
@@ -44,6 +43,7 @@
       href: https://tools.ietf.org/html/rfc3986
 - title: Lecture 3
   date: 2022-09-14
+  featured: true
   topics:
     - Conditionals (ETags and Date-time)
     - Redirections
