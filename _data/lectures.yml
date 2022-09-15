@@ -20,7 +20,6 @@
       href: https://tools.ietf.org/html/rfc7231
 - title: Lecture 2
   date: 2022-09-07
-  featured: true
   topics:
     - URIs
     - Logs
@@ -48,7 +47,6 @@
     - Conditionals (ETags and Date-time)
     - Redirections
     - Introduction to Docker
-    - Testing Setup
   links:
     - title: Conditionals and Redirections Slides
       href: /slides/lecture-03-conditionals-redirections.pdf
@@ -56,8 +54,6 @@
       href: /slides/lecture-03-docker.pdf
     - title: Interactive Docker Tutorial
       href: https://training.play-with-docker.com/microservice-orchestration/
-    - title: Testing Server
-      href: https://github.com/ibnesayeed/webserver-tester
     - title: RFC 7231 (Section 6.4)
       href: https://tools.ietf.org/html/rfc7231
     - title: RFC 7538
@@ -66,12 +62,16 @@
       href: https://tools.ietf.org/html/rfc7232
 - title: Lecture 4
   date: 2022-09-21
+  featured: true
   topics:
     - Long-lived Connections
     - Pipelines
+    - Testing Setup
   links:
     - title: Long-lived Connections and Pipelines Slides
       href: /slides/lecture-04-long-lived-connections-pipelines.pdf
+    - title: Testing Server
+      href: https://github.com/ibnesayeed/webserver-tester
     - title: RFC 7230 (Section 6)
       href: https://tools.ietf.org/html/rfc7230
     - title: RFC 7231 (Section 4.2)
