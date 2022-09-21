@@ -42,7 +42,6 @@
       href: https://tools.ietf.org/html/rfc3986
 - title: Lecture 3
   date: 2022-09-14
-  featured: true
   topics:
     - Conditionals (ETags and Date-time)
     - Redirections
@@ -78,6 +77,7 @@
       href: https://tools.ietf.org/html/rfc7231
 - title: Lecture 5
   date: 2022-09-28
+  featured: true
   topics:
     - Range and Partial Content
   links:
