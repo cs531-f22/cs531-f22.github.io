@@ -76,7 +76,6 @@
       href: https://tools.ietf.org/html/rfc7231
 - title: Lecture 5
   date: 2022-09-28
-  featured: true
   topics:
     - Range and Partial Content
   links:
@@ -100,6 +99,7 @@
       href: https://tools.ietf.org/html/rfc7231
 - title: Lecture 7
   date: 2022-10-12
+  featured: true
   topics:
     - Content Negotiation
   links:
