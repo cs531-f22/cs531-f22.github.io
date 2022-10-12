@@ -63,7 +63,6 @@
   description: A web server with a limited set of methods, status codes, headers, MIME types, and the access log.
   date: 2022-10-04
   points: 20
-  featured: true
 - title: Assignment 2
   description: This assignment builds on top of the previous one and primarily focuses on conditionals and redirections with support for both long-lived and pipelined connections.
   date: 2022-10-12
