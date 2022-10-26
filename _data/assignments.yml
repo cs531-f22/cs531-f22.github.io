@@ -32,17 +32,17 @@
   date: 2022-10-23
   points: 6
   extra: true
-  featured: true
   dormant: false
   topics:
     - Redirection to mobile domain
     - Content negotiation other than accept-encoding
 - title: Assignment 0-4
   description: HTTP Trailer, multiple transfer encoding, and user-agent-specific access denial examples in the wild.
-  date: 2022-10-12
+  date: 2022-11-02
   points: 9
   extra: true
-  dormant: true
+  featured: true
+  dormant: false
   topics:
     - HTTP Trailer
     - Multiple transfer encoding
@@ -67,7 +67,6 @@
   description: This assignment builds on top of the previous one and primarily focuses on conditionals and redirections with support for both long-lived and pipelined connections.
   date: 2022-10-19
   points: 20
-  featured: true
 - title: Assignment 3
   description: This assignment builds on top of previous assignments and primarily focuses on encoding, content negotiation, and partial content.
   date: 2022-10-26
