@@ -38,7 +38,7 @@
     - Content negotiation other than accept-encoding
 - title: Assignment 0-4
   description: HTTP Trailer, multiple transfer encoding, and user-agent-specific access denial examples in the wild.
-  date: 2022-11-02
+  date: 2022-11-06
   points: 9
   extra: true
   featured: true
@@ -69,7 +69,7 @@
   points: 20
 - title: Assignment 3
   description: This assignment builds on top of previous assignments and primarily focuses on encoding, content negotiation, and partial content.
-  date: 2022-10-30
+  date: 2022-11-02
   points: 20
 - title: Assignment 4
   description: This assignment builds on top of previous assignments and primarily focuses on authentication and authorization.
