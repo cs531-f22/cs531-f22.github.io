@@ -71,11 +71,11 @@
   description: This assignment builds on top of previous assignments and primarily focuses on encoding, content negotiation, and partial content.
   date: 2022-10-30
   points: 20
-  featured: true
 - title: Assignment 4
   description: This assignment builds on top of previous assignments and primarily focuses on authentication and authorization.
   date: 2022-11-09
   points: 20
+  featured: true
 - title: Assignment 5
   description: This assignment builds on top of previous assignments and primarily focuses on unsafe methods and server-side execution (CGI).
   date: 2022-11-23
