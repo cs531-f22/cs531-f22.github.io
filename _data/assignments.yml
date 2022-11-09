@@ -41,7 +41,6 @@
   date: 2022-11-06
   points: 9
   extra: true
-  featured: true
   dormant: false
   topics:
     - HTTP Trailer
