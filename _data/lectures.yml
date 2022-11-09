@@ -135,7 +135,6 @@
       href: https://tools.ietf.org/html/rfc3875
 - title: Lecture 10
   date: 2022-11-02
-  featured: true
   topics:
     - HTTPS (HTTP Over TLS)
     - HTTP/2
@@ -177,6 +176,7 @@
       href: https://www.slideshare.net/ibnesayeed/support-for-various-http-methods-on-the-web
 - title: Lecture 12
   date: 2022-11-16
+  featured: true
   topics:
     - HTTPMailbox
     - WARC
