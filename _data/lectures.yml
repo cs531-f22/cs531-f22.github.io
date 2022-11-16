@@ -158,7 +158,6 @@
       href: https://datatracker.ietf.org/doc/html/rfc9114
 - title: Lecture 11
   date: 2022-11-09
-  featured: true
   topics:
     - REST/HATEOAS
     - Memento
@@ -194,6 +193,7 @@
     - NO CLASS
 - title: Lecture 13
   date: 2022-11-30
+  featured: true
   topics:
     - InterPlanetary File System (IPFS)
     - InterPlanetary Wayback (IPWB)
