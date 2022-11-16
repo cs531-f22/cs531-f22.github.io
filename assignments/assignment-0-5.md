@@ -6,25 +6,25 @@ title: Assignment 0-5
 
 * Find up to two "in the wild" examples of different response codes not defined in an RFC (e.g., `299` or `999`)
 * Standard HTTP status codes and their corresponding RFCs are listed in the [HTTP Status Code Registry](https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
-* Post your findings in [this thread](https://github.com/cs531-f19/discussions/issues/81)
+* Post your findings in [this thread](https://github.com/cs531-f22/cs531-f22.github.io/discussions/23)
 
 ## PATCH, PUT, and DELETE Methods
 
 * Find "in the wild" examples of domains that supports `PATCH`, `PUT`, or `DELETE` methods
 * You can find up to three examples from different domains, one for each method
-* Post your findings in [this thread](https://github.com/cs531-f19/discussions/issues/82)
+* Post your findings in [this thread](https://github.com/cs531-f22/cs531-f22.github.io/discussions/24)
 
 ## Wrong API MIME Type
 
 * Find an "in the wild" examples of an API with a MIME type of `application/json` that should be something else and suggest what the MIME type should be
-* Post your finding in [this thread](https://github.com/cs531-f19/discussions/issues/83)
+* Post your findings in [this thread](https://github.com/cs531-f22/cs531-f22.github.io/discussions/25)
 
 ## HTTP/1.1 Design Improvements
 
 * Provide up to two well-documented examples of what you would change in `HTTP/1.1`
-* Do not suggest features present in `HTTP2` or proposed for `HTTP3`, rather some of the syntax and consistency issues we discussed in class (during the semester we covered several areas where `HTTP/1.1` could have been designed more consistently)
+* Do not suggest features present in `HTTP2` or `HTTP3`, rather some of the syntax and consistency issues we discussed in class (during the semester we covered several areas where `HTTP/1.1` could have been designed more consistently)
 * Document both how things are in `HTTP/1.1` and what you would propose instead
-* Post your proposals in [this thread](https://github.com/cs531-f19/discussions/issues/84)
+* Post your proposals in [this thread](https://github.com/cs531-f22/cs531-f22.github.io/discussions/26)
 
 ## WARC File Comparison
 
@@ -35,6 +35,6 @@ title: Assignment 0-5
   * [Webrecorder](https://webrecorder.io/)
   * [WARCIO](https://github.com/webrecorder/warcio)
   * [Heritrix](https://github.com/internetarchive/heritrix3)
-* Post your analysis in [this thread](https://github.com/cs531-f19/discussions/issues/85)
+* Post your analysis in [this thread](https://github.com/cs531-f22/cs531-f22.github.io/discussions/27)
 
 {% include posting.md %}

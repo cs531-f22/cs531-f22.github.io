@@ -51,7 +51,8 @@
   date: 2022-11-30
   points: 9
   extra: true
-  dormant: true
+  dormant: false
+  featured: true
   topics:
     - Non-standard status codes
     - PATCH, PUT, and DELETE methods
@@ -79,3 +80,4 @@
   description: This assignment builds on top of previous assignments and primarily focuses on unsafe methods and server-side execution (CGI).
   date: 2022-11-23
   points: 20
+  featured: true
