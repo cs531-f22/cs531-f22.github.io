@@ -175,7 +175,6 @@
       href: https://www.slideshare.net/ibnesayeed/support-for-various-http-methods-on-the-web
 - title: Lecture 12
   date: 2022-11-16
-  featured: true
   topics:
     - HTTPMailbox
     - WARC
@@ -197,11 +196,14 @@
   topics:
     - InterPlanetary File System (IPFS)
     - InterPlanetary Wayback (IPWB)
+    - Decentralized Web Archiving and Replay
   links:
     - title: How IPFS Works
       href: https://www.cs.odu.edu/~salam/presentations/How-IPFS-Works.pdf
     - title: InterPlanetary Wayback - The Next Step Towards Decentralized Web Archiving
       href: https://www.slideshare.net/ibnesayeed/interplanetary-wayback-the-next-step-towards-decentralized-web-archiving-108525567
+    - title: Decentralized Web Archiving and Replay
+      href: https://archive.org/~sawood/presentations/decentralized-web-archiving-and-replay.pdf
 - title: RESERVED
   date: 2022-12-07
   topics:
