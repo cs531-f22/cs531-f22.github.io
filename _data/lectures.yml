@@ -206,6 +206,7 @@
       href: https://archive.org/~sawood/presentations/decentralized-web-archiving-and-replay.pdf
 - title: Student Presentations
   date: 2022-12-07
+  featured: true
   topics:
     - Cloud Hosting Tutorial
 - title: Exam Week
